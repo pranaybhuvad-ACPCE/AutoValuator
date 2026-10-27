@@ -1,0 +1,4 @@
+project_id = "gkcfhvnxoeletkkymoeh"
+
+[functions.predict-price]
+verify_jwt = false
